@@ -1,0 +1,63 @@
+body{
+	background-color:black;
+}
+.menu1 {
+	
+	background-color: pink;
+	text-align:center;
+	cursor: pointer;
+	font-family:bookman old style;
+	font-weight:bold;
+	height: 30px;
+}
+.menu2 {
+	background-color: aqua;
+	text-align:center;
+	cursor: pointer;
+	font-family:bookman old style;
+	font-weight:bold;
+	height: 30px;
+}
+
+
+.td {
+	width: 25%;
+	float: left;
+}
+
+.show {
+	visibility: visible;
+	height: 60px;
+}
+.hide {
+	visibility: hidden;
+	height:60px;
+}
+#benz {
+	text-align:center;
+	background-color:#fadadd;
+	font-family:comic sans ms;
+}
+#ataca {
+	text-align:center;
+	background-color:#8cffdb;
+	font-family:comic sans ms;
+}	
+#krd {
+	text-align:center;
+	background-color:#fadadd;
+	font-family:comic sans ms;
+}
+#dc {
+	text-align:center;
+	background-color:#8cffdb;
+	font-family:comic sans ms;
+}
+#persona {
+	height: 500px;
+	width: auto;
+}
+#image {
+	text-align: center;
+
+}
